@@ -1,3 +1,12 @@
+// จงสร้างโปรแกรม Flutter
+// โดยรับข้อมูลอินพุทเป็น
+// “ชื่อ นามสกุล,ที่อยู่, เบอร์โทรศัพท์, ชื่อ user
+// (E-mail) และ
+// รห้ส password” และให้แสดงข้อความ
+// ยินดีต้อนรับเข้าระบบ ตามด้วยชื่อและนามสกุล เช่น “Welcome
+// to Animate System, Mr. Michael Anotho”  และทำการเก็บข้อมูลลงบน Local
+// Database และแสดงผลข้อมูล
+
 import 'package:flutter/material.dart';
 import 'package:flutter_database/providers/transaction_provider.dart';
 import 'package:flutter_database/screens/form_screen.dart';
