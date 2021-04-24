@@ -1,0 +1,28 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "antd": "^4.15.2",
+    "axios": "^0.21.1",
+    "bootstrap": "^3.4.1",
+    "emotion-theming": "^11.0.0",
+    "framer-motion": "^4.1.5",
+    "js-cookie": "^2.2.1",
+    "next": "10.0.9",
+    "next-images": "^1.7.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "rebass": "^4.0.7",
+    "reflexbox": "^4.0.6",
+    "styled-components": "^5.2.3"
+  }
+}
